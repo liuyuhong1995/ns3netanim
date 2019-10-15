@@ -1,8 +1,8 @@
 /home/wsn/sim_temp/ROCOMAR/RPGM/1000-RPGM.record
 使用的移动模型:RPGM
 
-网络时延:+1141873.0ns(ms)
+网络时延:+1299626.0ns(ms)
 
-网络吞吐量: 0.8551(Byte/s)
+网络吞吐量: 0.173387(Byte/s)
 
-PDR指标:1.38763%
+PDR指标:0.444868%
