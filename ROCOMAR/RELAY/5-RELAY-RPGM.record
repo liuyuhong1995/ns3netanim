@@ -1,8 +1,8 @@
 /home/wsn/sim_temp/ROCOMAR/RELAY/5-RELAY-RPGM.record
 使用的移动模型:RPGM
 
-网络时延:+1340961.0ns(ms)
+网络时延:+1030372.0ns(ms)
 
-网络吞吐量: 73.9207(Byte/s)
+网络吞吐量: 73.0155(Byte/s)
 
-PDR指标:78.9563%
+PDR指标:63.3697%
