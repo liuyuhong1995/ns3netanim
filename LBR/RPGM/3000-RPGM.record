@@ -1,8 +1,8 @@
 /home/wsn/sim_temp/LBR/RPGM/3000-RPGM.record
 使用的移动模型:RPGM
 
-网络时延:+949932.0ns(ms)
+网络时延:+1535650.0ns(ms)
 
-网络吞吐量: 25.9655(Byte/s)
+网络吞吐量: 52.8272(Byte/s)
 
-PDR指标:24.287%
+PDR指标:60.132%
